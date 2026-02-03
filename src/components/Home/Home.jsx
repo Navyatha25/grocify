@@ -1,6 +1,6 @@
 import React from 'react'
 import First from '../First/First'
-import Category from '../Category/category'
+import Category from '../Category/Category'
 import Values from '../Values/Values'
 import Products from '../Products/Products'
 import Process from '../Process/Process'
