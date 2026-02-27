@@ -15,7 +15,7 @@ const Footer = () => {
                             Bred for a high content of beneficial substances. Our products are all fresh and healthy.
                         </p>
                         <p className='text-zinc-800 mt-6'>
-                            2025 &copy; All Rights Reserved
+                            2026 &copy; All Rights Reserved
                         </p>
                     </div>
 
